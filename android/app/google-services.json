@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "303372774624",
+    "firebase_url": "https://aprendiendo-1998.firebaseio.com",
+    "project_id": "aprendiendo-1998",
+    "storage_bucket": "aprendiendo-1998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303372774624:android:4a884546a0384795ed3485",
+        "android_client_info": {
+          "package_name": "com.quantumdevelopers.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303372774624-ochctdrsfbvhe28ol0h9irdt9442kblu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quantumdevelopers.test",
+            "certificate_hash": "49be339267d8f0208aeb4f823893980505bd4d11"
+          }
+        },
+        {
+          "client_id": "303372774624-phnaiqvqogoju2t67tu95ingir5knli6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgk88Hqa_PIKBqnYPL-dxqWbf5HVIeqgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303372774624-phnaiqvqogoju2t67tu95ingir5knli6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
