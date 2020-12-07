@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>303372774624-vm1p3ptsvcb9dfkvrbs6lol6oc6jhvih.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.303372774624-vm1p3ptsvcb9dfkvrbs6lol6oc6jhvih</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>303372774624-lqq2juaji1h3c6sag2j2rkpjufv59sts.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBaoBsyUA-BixbJjsjTp7e_0EIA0QvSEjI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>303372774624</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.quantumdevelopers.test</string>
+	<key>PROJECT_ID</key>
+	<string>aprendiendo-1998</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aprendiendo-1998.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:303372774624:ios:1e722e4f6762f50aed3485</string>
+	<key>DATABASE_URL</key>
+	<string>https://aprendiendo-1998.firebaseio.com</string>
+</dict>
+</plist>
